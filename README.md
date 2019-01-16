@@ -9,12 +9,12 @@
 
 #Full Width / View
 
-![Alt text](/screenshots/full-width.png?raw=true "Full Width")
+![Alt text](/src/screenshots/full-width.png?raw=true "Full Width")
 
 #Less than 720px 
 
-![Alt text](/screenshots/720px.png?raw=true "Less than 720px")
+![Alt text](/src/screenshots/720px.png?raw=true "Less than 720px")
 
 #Less than 360px (Using chrome dev tools to get a window width less than 36opx)
 
-![Alt text](/screenshots/360px.png?raw=true "Less than 360px")
+![Alt text](/src/screenshots/360px.png?raw=true "Less than 360px")
