@@ -7,14 +7,14 @@
 
 ### Example Screenshots (All using google chrome)
 
-#Full Width / View
+# Full Width / View
 
 ![Alt text](/src/screenshots/full-width.png?raw=true "Full Width")
 
-#Less than 720px 
+# Less than 720px 
 
 ![Alt text](/src/screenshots/720px.png?raw=true "Less than 720px")
 
-#Less than 360px (Using chrome dev tools to get a window width less than 36opx)
+# Less than 360px (Using chrome dev tools to get a window width less than 36opx)
 
 ![Alt text](/src/screenshots/360px.png?raw=true "Less than 360px")
