@@ -1,4 +1,4 @@
-### Enhanced-FlexGrid
+# Enhanced-FlexGrid
 
 - The width of each column is 25% of the window size.
 - This width must be maintained even if the page is resized. Also make sure that each cell of the grid can contain another 1x4 flexible grid.
