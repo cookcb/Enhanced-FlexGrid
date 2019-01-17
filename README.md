@@ -18,6 +18,6 @@ To use, just load the index.html file in your browser of choice (I used chrome).
 
 ![Alt text](/src/screenshots/720px.png?raw=true "Less than 720px")
 
-### Less than 360px (Using chrome dev tools to get a window width less than 36opx)
+### Less than 360px (Bottom part of window is cut off in the screenshot)
 
 ![Alt text](/src/screenshots/360px.png?raw=true "Less than 360px")
